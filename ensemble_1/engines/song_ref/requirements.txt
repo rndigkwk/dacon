@@ -1,0 +1,2 @@
+# 추가 설치 패키지 없음 — 표준 라이브러리만 사용합니다.
+# vllm·torch·transformers·xgrammar 는 평가 서버 고정 패키지이므로 적지 않습니다.
